@@ -1,0 +1,17 @@
+Needs to support 20 doctors
+Needs to support 400 patients
+Needs to track drug type administered
+Restrict Drug types to supervisors only
+18 month test
+Each doctor will see 20 patients
+Patients will come in twice a month
+Needs to track interviews with doctors
+Needs to track patient depression state, improving or worsening
+Needs to tract patient appetite
+Needs to tract patient sleep
+Needs to track patient activity engagement
+Needs to track patient health information (rashes, high blood pressure, irregular heart rhythms, or liver or kidney problems)
+Doctors should have access to their patient’s information and should be able to enter Blood Pressure, Blood Test, depression indicators, doctor’s notes)
+Patients should have access to their medical profile and doctors notes
+Supervisors should be able to see all data
+Database needs to be secured against external intrusion attacks
